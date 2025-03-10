@@ -1,0 +1,8 @@
+# Path
+train: D:/code_study/ML_CODE/dataSets/ObjectDetection/Underwater_Object_Detection_Dataset/aquarium_pretrain/train/images
+val: D:/code_study/ML_CODE/dataSets/ObjectDetection/Underwater_Object_Detection_Dataset/aquarium_pretrain/valid/images
+test: D:/code_study/ML_CODE/dataSets/ObjectDetection/Underwater_Object_Detection_Dataset/aquarium_pretrain/test/images
+
+# Classes
+nc: 7
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
