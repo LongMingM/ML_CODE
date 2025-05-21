@@ -1,8 +1,7 @@
-# Path
-train: F:/dataSet/PE/QZYD/Raodu/dataSet_YOLO/train/images
-val: F:/dataSet/PE/QZYD/Raodu/dataSet_YOLO/valid/images
-test: F:/dataSet/PE/QZYD/Raodu/dataSet_YOLO/test/images
-
-# Classes
+names:
+- '0'
+- '1'
 nc: 2
-names: ['0', '1']
+test: /app/dataSet_YOLO/test/images
+train: /app/dataSet_YOLO/train/images
+val: /app/dataSet_YOLO/valid/images
